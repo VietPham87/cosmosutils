@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/btcsuite/btcutil v1.0.3-0.20201208143702-a53e38424cce
-	github.com/calvinlauyh/cosmosutils v0.1.0
+	github.com/vietpham87/cosmosutils v0.1.0
 	github.com/cosmos/cosmos-sdk v0.45.5
 	github.com/cosmos/ibc-go v1.0.0
 	github.com/crypto-org-chain/chain-main/v3 v3.0.0-croeseid
