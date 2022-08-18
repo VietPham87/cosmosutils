@@ -6,7 +6,7 @@ import (
 	"io"
 	"os"
 
-	. "github.com/calvinlauyh/cosmosutils"
+	. "github.com/VietPham87/cosmosutils"
 )
 
 func main() {

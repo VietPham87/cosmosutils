@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	. "github.com/calvinlauyh/cosmosutils"
+	. "github.com/VietPham87/cosmosutils"
 	"github.com/thatisuday/commando"
 )
 
