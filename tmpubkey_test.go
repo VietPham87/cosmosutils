@@ -4,8 +4,8 @@ import (
 	"encoding/base64"
 	"testing"
 
-	"github.com/calvinlauyh/cosmosutils"
 	"github.com/stretchr/testify/assert"
+	"github.com/vietpham87/cosmosutils"
 )
 
 func TestConsensusNodeAddressFromTmPubKey(t *testing.T) {

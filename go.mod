@@ -1,4 +1,4 @@
-module github.com/VietPham87/cosmosutils
+module github.com/vietpham87/cosmosutils
 
 go 1.18
 

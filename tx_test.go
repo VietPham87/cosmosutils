@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"testing"
 
-	"github.com/VietPham87/cosmosutils"
+	"github.com/vietpham87/cosmosutils"
 )
 
 func TestCosmosTxUnmarshal(t *testing.T) {
